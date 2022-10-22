@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @garrettsmith99
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’mtrying to build platform games on Unity 
 - 📫 240-441-8652
 
 <!---
